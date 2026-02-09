@@ -30,3 +30,6 @@ The project implements a simple Library Management System using Java, focusing o
 # IMPORTANT NOTE
 
 This project was completed as a group academic project as part of university coursework.
+
+## UML Class Diagram
+![UML Class Diagram](Java(OPP)-UML.jpeg)
